@@ -1,0 +1,20 @@
+.button-container{
+    max-width: 100%;
+    background-color: #FBF8EF !important;
+    color: black !important;
+    border-top-color: #FBF8EF !important;
+    border-left-color: #FBF8EF !important;
+    border-right-color: #FBF8EF !important;
+    font-size: 20px;
+    width: 100%;
+    margin-top: 20px;
+    border-bottom-color: gray  !important; 
+    border: 2px solid;
+}
+.faq-container{
+    padding: 200px 50px;
+    text-align: center;
+}
+.psize-container{
+    font-size: 20px;
+}

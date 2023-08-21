@@ -1,0 +1,116 @@
+.nav-container{
+    background-color: #BB2524;
+}
+
+.img-home-container{
+    height: 700px;
+    margin-top: 65px;
+}
+.img-logo-container{
+    height: 200;
+    width: 230px;
+    margin: 10px;
+}
+
+body{
+    background-color: #FBF8EF;
+    font-family: 'Montserrat';
+}
+
+.navd-container{
+    margin: 0%;
+    padding: 0%;
+    position: fixed;
+    z-index: 9999;
+}
+
+.start-learning {
+    justify-content: start;
+    border-radius: 20px;
+    width: 200px;
+    background-color: #BB2524 !important;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#dropdown-account {
+    background-color: #BB2524 !important;
+    border-color: #BB2524 !important;
+}
+.nav-text{
+    color: #fcf8ef !important;
+    font-size: 25px;
+    font-family: 'Archivo Black', sans-serif;
+    margin-left: 150px;
+}
+.course1-container{
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+}
+.total-container{
+    color: #1D5D9B;
+}
+.display-6 {
+    color: gray;
+    padding-top: 10px;
+}
+.stats-font {
+    color: gray;
+}
+
+.p-5 {
+    padding: 4rem!important;
+}
+
+.imgcourse-container{
+    height: 230px;
+    width: 286px;
+}
+.div-courses-container{
+    background-color: #FFF5E0;
+}
+.go-button-container{
+    background-color: #BB2524 !important;
+    color: white;
+    border-color: #BB2524;
+}
+.cardtitle-container{
+    color: #1D5D9B;
+}
+.img-bgray-img{
+    height: 300px; 
+    width: 800px;
+}
+.div-body-container{
+    padding-top: 100px;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.nav-item-padding {
+    padding: 20px;
+}
+
+
+@media (min-width: 768px) {
+    .navbar-expand-md {
+        justify-content: space-around !important;
+    }
+}
+
+.courses-for-you-font {
+    font-size: 34px !important;
+}
+
+#carouselExampleControls {
+    padding: 30px;
+}
+.card-container:hover{
+    background-color: #BB2524;
+}
+footer {
+    background-color: #FBF8EF;
+}

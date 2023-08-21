@@ -1,0 +1,16 @@
+.account-image-container {
+    padding: 120px 80px;
+}
+
+.modal {
+    z-index: 99999999;
+}
+
+.account-container {
+    padding: 30px 80px;
+    font-size: 22px;
+}
+
+.padding-info {
+    padding: 30px 15px;
+}

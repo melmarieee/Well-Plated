@@ -1,0 +1,27 @@
+.login-container{
+    width: 100%;
+    background-color: #fcf8ef;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.buttonsubmit{
+    text-align: center;
+    background-color: #BB2524 !important;
+    border: none;
+}
+.login-form-contaniner {
+    padding: 30px 30px;
+}
+.image-login{
+    padding: 30px 30px;
+}
+
+.enter-details-font {
+    color: gray ;
+    font-size: 14px;
+}
+body{
+    background-color: #FBF8EF;
+}

@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+}
+.buttonsubmit{
+    text-align: center;
+    background-color: #BB2524 !important;
+    border: none;
+}
+
+.login-form-contaniner {
+    padding: 30px 30px;
+}
+
+body{
+    background-color: #FBF8EF;
+}
+
+.image-login{
+    padding: 30px 30px;
+}
+
+.image-cooking {
+    transform: scaleX(-1);
+}

@@ -1,5 +1,9 @@
 .nav-container{
     background-color: #BB2524;
+    z-index: 9999;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .img-home-container{
@@ -15,13 +19,6 @@
 body{
     background-color: #FBF8EF;
     font-family: 'Montserrat';
-}
-
-.navd-container{
-    margin: 0%;
-    padding: 0%;
-    position: fixed;
-    z-index: 9999;
 }
 
 .start-learning {
@@ -41,7 +38,6 @@ body{
     color: #fcf8ef !important;
     font-size: 25px;
     font-family: 'Archivo Black', sans-serif;
-    margin-left: 150px;
 }
 .course1-container{
     text-align: center;
@@ -91,13 +87,13 @@ body{
 }
 
 .nav-item-padding {
-    padding: 20px;
+    padding: 20px 60px;
 }
 
 
-@media (min-width: 768px) {
-    .navbar-expand-md {
-        justify-content: space-around !important;
+@media (max-width: 768px) {
+    .div-body-container {
+        padding-top: 200px !important;
     }
 }
 

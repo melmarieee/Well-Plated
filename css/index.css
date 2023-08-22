@@ -90,21 +90,6 @@ body{
     padding: 20px 60px;
 }
 
-
-@media (max-width: 768px) {
-    .div-body-container {
-        padding-top: 200px !important;
-    }
-
-    .div-body-container-sm {
-        padding-top: 250px !important;
-    }
-
-    .div-body-container-faq {
-        padding-top: 100px !important;
-    }
-}
-
 .courses-for-you-font {
     font-size: 34px !important;
 }

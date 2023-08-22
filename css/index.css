@@ -110,3 +110,7 @@ body{
 footer {
     background-color: #FBF8EF;
 }
+
+.activenav {
+    color: black !important;
+}

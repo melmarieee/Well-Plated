@@ -95,6 +95,14 @@ body{
     .div-body-container {
         padding-top: 200px !important;
     }
+
+    .div-body-container-sm {
+        padding-top: 250px !important;
+    }
+
+    .div-body-container-faq {
+        padding-top: 100px !important;
+    }
 }
 
 .courses-for-you-font {
